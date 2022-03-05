@@ -1,7 +1,7 @@
 ### Hi there
 
-## My name is Antônio Carlos!
-## Welcome to my GitHub profile 👋
+#### My name is Antônio Carlos!
+##### Welcome to my GitHub profile 👋
 
 <!--
 **CarlosSb/CarlosSb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
