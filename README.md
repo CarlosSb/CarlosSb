@@ -18,10 +18,10 @@ Sou desenvolvedor em evolução contínua, focado em construir soluções úteis
 
 ### GitHub
 
-<div>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosSb&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub de Antônio Carlos" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSb&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas por Antônio Carlos" />
-</div>
+[![Seguidores](https://img.shields.io/github/followers/CarlosSb?style=for-the-badge&label=Seguidores&logo=github)](https://github.com/CarlosSb?tab=followers)
+[![Stars](https://img.shields.io/github/stars/CarlosSb?style=for-the-badge&label=Stars&logo=github)](https://github.com/CarlosSb)
+
+Veja meus repositórios para acompanhar projetos, estudos e experimentos em desenvolvimento.
 
 ### Contato
 
