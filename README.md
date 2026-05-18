@@ -1,19 +1,29 @@
-### Hi there
+## Olá, eu sou Antônio Carlos
 
-#### My name is Antônio Carlos!
-##### Welcome to my GitHub profile 👋
+Sou desenvolvedor em evolução contínua, focado em construir soluções úteis, bem estruturadas e fáceis de manter. Uso este espaço para organizar meus estudos, projetos pessoais e experimentos com tecnologia.
 
-<!--
-**CarlosSb/CarlosSb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
 
-Here are some ideas to get you started:
+- Tenho interesse em desenvolvimento de software, aplicações web e boas práticas de engenharia.
+- Gosto de transformar ideias em projetos funcionais, com atenção à clareza do código e à experiência de uso.
+- Estou sempre aprendendo novas ferramentas, padrões e formas melhores de resolver problemas.
+- Busco colaborar em projetos que tenham propósito, qualidade técnica e impacto real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### O que você encontra por aqui
+
+- Projetos de estudo e prática.
+- Experimentos com tecnologias e arquiteturas.
+- Implementações voltadas para aprendizado, organização e melhoria contínua.
+- Repositórios que registram minha evolução como desenvolvedor.
+
+### GitHub
+
+<div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosSb&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub de Antônio Carlos" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSb&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas por Antônio Carlos" />
+</div>
+
+### Contato
+
+- GitHub: [@CarlosSb](https://github.com/CarlosSb)
+- E-mail: [antoniocarlossbcdd@gmail.com](mailto:antoniocarlossbcdd@gmail.com)
